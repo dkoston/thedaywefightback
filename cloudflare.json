@@ -1,0 +1,40 @@
+{
+    "category": "anti-censorship",
+    "config": {
+        "assets": {
+            "logos": {
+                "132px": "./public/images/logo-132.png",
+                "200px": "./public/images/logo-200.png"
+            }
+        }, 
+        "details": {
+            "Language": "English",
+            "Price": "Free", 
+            "Restrictions": "None",
+            "has_js": true
+        }, 
+        "interface": [
+        ]
+    }, 
+    "contributors": [
+        {
+            "email": "thomasalwyndavis@gmail.com",
+            "name": "Thomas Davis"
+        },
+        {
+            "email": "dkoston@cloudflare.com", 
+            "name": "Dave Koston"
+        }
+    ], 
+    "dependencies": {}, 
+    "description": "Take part in the day of protest against mass survelliance and honor the memory of Aaron Swartz by placing a banner on your site this February 11th.", 
+    "licenses": [
+        {
+            "type": "MIT", 
+            "url": "http://www.opensource.org/licenses/MIT"
+        }
+    ], 
+    "main": "./public/javascripts/banner.js", 
+    "name": "The Day We Fight Back", 
+    "version": "0.0.1"
+}
