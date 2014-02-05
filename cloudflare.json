@@ -14,6 +14,48 @@
             "has_js": true
         }, 
         "interface": [
+            {
+                "type": "string",
+                "id": "greeting",
+                "name": "Custom Greeting",
+                "description": "Please set a greeting for the top left of the banner.",
+                "domain_request": false,
+                "private": false,
+                "value": "Dear Internet Users"
+            },
+            {
+                "type": "select",
+                "id": "disableDate",
+                "name": "Banner Visibility",
+                "description": "Show the banner even if it is not yet Feb 11th?",
+                "options": [
+                    {
+                        "label": "No, just the 11th is fine.",
+                        "value": "false"
+                    },
+                    {
+                        "label": "Yes, Show my support every day!",
+                        "value": "true"
+                    }
+                    
+                ]
+            },
+            {
+                "type": "select",
+                "id": "callOnly",
+                "name": "Communication Types",
+                "description": "Choose which types of communications to congress to include.",
+                "options": [
+                    {
+                        "label": "Phone and Email",
+                        "value": "false"
+                    },
+                    {
+                        "label": "Phone only",
+                        "value": "true"
+                    }
+                ]
+            }
         ]
     }, 
     "contributors": [
@@ -24,10 +66,14 @@
         {
             "email": "dkoston@cloudflare.com", 
             "name": "Dave Koston"
+        },
+        {
+            "email": "ram@cloudflare.com",
+            "name": "Ramakrishna Nadella"
         }
     ], 
     "dependencies": {}, 
-    "description": "Take part in the day of protest against mass survelliance and honor the memory of Aaron Swartz by placing a banner on your site this February 11th.", 
+    "description": "Take part in the day of protest against mass survelliance and honor the memory of Aaron Swartz by placing a banner on your site this February 11th, 2014.", 
     "licenses": [
         {
             "type": "MIT", 
@@ -36,5 +82,5 @@
     ], 
     "main": "./public/javascripts/banner.js", 
     "name": "The Day We Fight Back", 
-    "version": "0.0.1"
+    "version": "0.0.7"
 }
