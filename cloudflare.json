@@ -52,14 +52,6 @@
                         "value": "true"
                     }
                 ]
-            },
-            {
-                "type": "string",
-                "id": "greeting",
-                "name": "Custom Greeting",
-                "description": "If you wish to put a custom greeting at the top left of the banner, enter it here.",
-                "domain_request": false,
-                "private": false
             }
         ]
     }, 
@@ -87,5 +79,5 @@
     ], 
     "main": "./public/javascripts/banner.js", 
     "name": "The Day We Fight Back", 
-    "version": "0.3.7"
+    "version": "0.3.8"
 }
