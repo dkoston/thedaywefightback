@@ -52,7 +52,7 @@
                         "value": "true"
                     }
                 ]
-            }
+            },
             {
                 "type": "string",
                 "id": "greeting",
@@ -60,7 +60,7 @@
                 "description": "If you wish to put a custom greeting at the top left of the banner, enter it here.",
                 "domain_request": false,
                 "private": false,
-            },
+            }
         ]
     }, 
     "contributors": [
