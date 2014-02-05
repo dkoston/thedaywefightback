@@ -1,5 +1,5 @@
-CloudFlare.define('thedaywefightback',[
-	'thedaywefightback/config'
+CloudFlare.define('the_day_we_fight_back',[
+	'the_day_we_fight_back/config'
 ],
 function(
 	config
