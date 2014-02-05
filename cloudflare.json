@@ -87,5 +87,5 @@
     ], 
     "main": "./public/javascripts/banner.js", 
     "name": "The Day We Fight Back", 
-    "version": "0.3.4"
+    "version": "0.3.6"
 }
