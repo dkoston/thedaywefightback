@@ -21,15 +21,6 @@
         }, 
         "interface": [
             {
-                "type": "string",
-                "id": "greeting",
-                "name": "Custom Greeting",
-                "description": "Please set a greeting for the top left of the banner.",
-                "domain_request": false,
-                "private": false,
-                "value": "Dear Internet Users"
-            },
-            {
                 "type": "select",
                 "id": "disableDate",
                 "name": "Banner Visibility",
@@ -62,6 +53,14 @@
                     }
                 ]
             }
+            {
+                "type": "string",
+                "id": "greeting",
+                "name": "Custom Greeting",
+                "description": "If you wish to put a custom greeting at the top left of the banner, enter it here.",
+                "domain_request": false,
+                "private": false,
+            },
         ]
     }, 
     "contributors": [
@@ -88,5 +87,5 @@
     ], 
     "main": "./public/javascripts/banner.js", 
     "name": "The Day We Fight Back", 
-    "version": "0.3.1"
+    "version": "0.3.2"
 }
