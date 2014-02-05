@@ -5,7 +5,13 @@
             "logos": {
                 "132px": "./public/images/logo-132.png",
                 "200px": "./public/images/logo-200.png"
-            }
+            },
+            "detail_page":
+            [
+                "./public/images/call-tool.png",
+                "./public/images/email-tool.png",
+                "./public/images/tdwfb-banner.png"
+            ]
         }, 
         "details": {
             "Language": "English",
@@ -82,5 +88,5 @@
     ], 
     "main": "./public/javascripts/banner.js", 
     "name": "The Day We Fight Back", 
-    "version": "0.0.8"
+    "version": "0.3.1"
 }
