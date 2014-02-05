@@ -5,6 +5,9 @@ function(
 	config
 ){
 
+	config.disableDate = config.disableDate === "true" ? true : false;
+	config.callOnly = config.callOnly === "true" ? true : false;
+
 	window.tdwfb_config = config;
 
 	var tdwfb_widget_url = '//d1agz031tafz8n.cloudfront.net/thedaywefightback.js/widget.min.js';
