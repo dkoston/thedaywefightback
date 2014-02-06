@@ -16,23 +16,23 @@ You can see a screenshot of the banner on an example website below.
 
 **When will the banner show up?**
 
-The banner will appear on February 11th, 2014 for all visitors of your website, based on your local time zone. This is the default option for the banner. To have it show longer, please see below.
+The banner will appear on February 11th, 2014 for all visitors of your website, based on your local time zone.
+
 
 **Do I need to enable the banner on the 11th?**
 
 You can add the app to your site at any time and the banner will automatically appear on the 11th.  You don’t need to do anything to turn the banner on or off.
 
-**What if I want the banner to appear all the time?**
-
-Choosing "Yes, Show my support every day!" as the option for "Banner Visibility" when setting up the app will make the app appear every day until you turn it off.
 
 **What if I am outside the U.S.?**
 
 The main functionality of the banner urges your web visitors to call or email members of the US Congress. However, Clicking on the "Not in the USA" link in the bottom left hand corner of the banner allows a visitor to sign a worldwide petition of support.
 
+
 **Can I get this app on Github?**
 
 Yes, this app is open-sourced.  You can find the app on Github here: [https://github.com/dkoston/thedaywefightback](https://github.com/dkoston/thedaywefightback)
+
 
 **Will you automatically un-install this app?**
 
