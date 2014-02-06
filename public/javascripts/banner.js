@@ -7,7 +7,6 @@ function(
 	dom
 ){
 
-	config.disableDate = (config.disableDate === 'true');
 	config.callOnly = (config.callOnly === 'true');
 
 	window.tdwfb_config = config;

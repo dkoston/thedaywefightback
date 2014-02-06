@@ -21,24 +21,7 @@
             "Supporting": "<a href='https://thedaywefightback.org/'>thedaywefightback.org</a>",
             "has_js": true
         }, 
-        "interface": [
-            {
-                "type": "select",
-                "id": "disableDate",
-                "name": "Banner Visibility",
-                "description": "Show the banner even if it is not yet Feb 11th?",
-                "options": [
-                    {
-                        "label": "No, just the 11th is fine.",
-                        "value": "false"
-                    },
-                    {
-                        "label": "Yes, Show my support every day!",
-                        "value": "true"
-                    }
-                    
-                ]
-            },
+        "interface": [ 
             {
                 "type": "select",
                 "id": "callOnly",
@@ -81,5 +64,5 @@
     ], 
     "main": "./public/javascripts/banner.js", 
     "name": "The Day We Fight Back", 
-    "version": "1.0.0"
+    "version": "1.0.1"
 }
