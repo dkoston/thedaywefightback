@@ -1,22 +1,33 @@
-### DEAR USERS OF THE INTERNET,
+The "The Day We Fight Back" app from CloudFlare shows your visitors that you support [The Day We Fight Back](https://thedaywefightback.org/), urges visitors in the USA to contact their members of Congress, and allows visitors outside the USA to sign a world-wide petition in support of The Day We Fight Back.
+
+
+
+### From thedaywefightback.com:
+
+#### DEAR USERS OF THE INTERNET,
 
 In January 2012 we defeated the SOPA and PIPA censorship legislation with the largest Internet protest in history. Today we face another critical threat, one that again undermines the Internet and the notion that any of us live in a genuinely free society: mass surveillance.
 
-In celebration of the win against SOPA and PIPA two years ago, and in memory of one of it's leaders, [Aaron Swartz](http://www.theguardian.com/commentisfree/2013/jan/12/aaron-swartz-heroism-suicide1), we are planning a day of protest against mass surveillance, to take place this **February 11th**.
+In celebration of the win against SOPA and PIPA two years ago, and in memory of one of it's leaders, [Aaron Swartz](http://www.theguardian.com/commentisfree/2013/jan/12/aaron-swartz-heroism-suicide1), we are planning a day of protest against mass surveillance, to take place this **February 11th, 2014**.
 
 Together we will push back against powers that seek to observe, collect, and analyze our every digital action. Together, we will make it clear that such behavior is not compatible with democratic governance. Together, if we persist, we will win this fight.
 
-### WHAT WE'LL DO ON FEBRUARY 11th:
+
+#### WHAT WE'LL DO ON FEBRUARY 11th, 2014:
 
 **If you're in the US:** Thousands of websites will host banners urging people to call/email Congress. We'll ask legislators to oppose the [FISA Improvements Act](https://www.aclu.org/blog/national-security-technology-and-liberty/sen-dianne-feinsteins-nsa-reforms-bad-privacy-bad), support the [USA Freedom Act](https://www.aclu.org/blog/national-security/usa-freedom-act-real-spying-reform), and enact protections for non-Americans.
 
 **If you're not in the US:** Visitors will be asked to urge appropriate targets to institute privacy protections.
 
-### ADD THE BANNER TO YOUR SITE
+
+
+### How to add the banner to your site
 
 Adding this app will automatically add The Day We Fight Back banner to the bottom of your site on February 11th, 2014. You can see a screenshot of the banner on an example website below. 
 
-#### FAQ
+
+
+### F.A.Q.
 
 **When will the banner show up?**
 
@@ -35,7 +46,8 @@ Choosing "Yes, Show my support every day!" as the option for "Banner Visibility"
 The banner's functionality only allows you to contact members of the US Congress. However, Clicking on the "Not in the USA" link allows a visitor to sign a worldwide petition of support.
 
 
-### BANNER SCREENSHOTS
+
+### Banner Screenshots
 
 #### Main Banner
 
