@@ -14,7 +14,26 @@ Together we will push back against powers that seek to observe, collect, and ana
 
 ### ADD THE BANNER TO YOUR SITE
 
-Adding this app will automatically add The Day We Fight Back banner to your site on February 11th, 2014. 
+Adding this app will automatically add The Day We Fight Back banner to the bottom of your site on February 11th, 2014. You can see a screenshot of the banner on an example website below. 
+
+#### FAQ
+
+**When will the banner show up?**
+
+The banner will appear on February 11th, 2014 for all visitors of your website.
+
+**Do I need to enable the banner on the 11th?**
+
+You can add the app to your site at any time and the banner will automatically appear on the 11th.
+
+**What if I want the banner to appear all the time?**
+
+Choosing "Yes, Show my support every day!" as the option for "Banner Visibility" when setting up the app will make the app appear every day until you turn it off.
+
+**What if I am outside the U.S.?**
+
+The banner's functionality only allows you to contact members of the US Congress. However, Clicking on the "Not in the USA" link allows a visitor to sign a worldwide petition of support.
+
 
 ### BANNER SCREENSHOTS
 
@@ -22,10 +41,22 @@ Adding this app will automatically add The Day We Fight Back banner to your site
 
 ![Main Banner](/images/apps/the_day_we_fight_back/tdwfb-banner.png "Main Banner")
 
+This is the banner that will appear at the bottom of your website when you enable the app.
+
+#### Example on a website
+
+![On Website](/images/apps/the_day_we_fight_back/on-website.png "On a website")
+
+Here's an example of the banner appearing on a website.
+
 #### Call Tool Pop-up
 
 ![Call Tool](/images/apps/the_day_we_fight_back/call-tool.png "Call Tool Pop-up")
 
+When someone clicks on "Connect My Call" from within the banner to call their Senator, the follow call script will appear.
+
 #### Email Tool Pop-up
 
 ![Email Tool](/images/apps/the_day_we_fight_back/email-tool.png "Email Tool Pop-up")
+
+When someone clicks on "Compose Email" from within the banner, the following email template will appear.
