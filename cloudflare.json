@@ -72,7 +72,7 @@
         }
     ], 
     "dependencies": {}, 
-    "description": "Take part in the day of protest against mass survelliance and honor the memory of Aaron Swartz by placing a banner on your site this February 11th, 2014.", 
+    "description": "This app lets you automatically add The Day We Fight Back banner to your site on February 11th, 2014. The Day We Fight Back is an organization that has organized a protest against mass surveillance. The banner that your visitors would see urges them to reach out to members of the US Congress to oppose the FISA Improvements Act, support the USA Freedom Act or sign a petition if outside the US.", 
     "licenses": [
         {
             "type": "MIT", 
