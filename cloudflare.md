@@ -11,6 +11,8 @@ Adding this app will automatically add The Day We Fight Back banner to the botto
 
 You can see a screenshot of the banner on an example website below.
 
+Once you've added the banner to your site, don't forget to visit [thedaywefightback.org](https://thedaywefightback.org/) and let them know you're adding the banner.
+
 
 ### F.A.Q.
 
