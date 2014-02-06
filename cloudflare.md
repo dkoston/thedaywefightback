@@ -34,6 +34,11 @@ The main functionality of the banner urges your web visitors to call or email me
 
 Yes, this app is open-sourced.  You can find the app on Github here: [https://github.com/dkoston/thedaywefightback](https://github.com/dkoston/thedaywefightback)
 
+**Will you automatically un-install this app?**
+
+Yes, we will automatically un-install this app for you by the end of February 2014.
+
+
 ### Banner Screenshots
 
 #### Main Banner
